@@ -35,10 +35,11 @@ export default function HomeScreen() {
     return (
         <div
             style={{
-                backgroundColor: 'green'
+                
             }}>
             <h1
             style={{
+                background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
                 textAlign: 'center',
                 fontSize: '60px'
             }}
